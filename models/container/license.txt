@@ -1,0 +1,11 @@
+Model Information:
+* title:	Container 40ft
+* source:	https://sketchfab.com/3d-models/container-40ft-f5b0b673eddb4550aec986b1993a6376
+* author:	Ashkelon (https://sketchfab.com/Ashkelon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Container 40ft" (https://sketchfab.com/3d-models/container-40ft-f5b0b673eddb4550aec986b1993a6376) by Ashkelon (https://sketchfab.com/Ashkelon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
